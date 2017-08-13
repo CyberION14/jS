@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE>
 <h1>Hello World!</h1>
 <script type="text/javascript">
 //javascript
